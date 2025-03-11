@@ -1,10 +1,5 @@
 [
   {
-    "name": "Google",
-    "description": "The world's most popular search engine that provides personalized search results, images, videos, maps, news, and more.",
-    "link": "https://google.com"
-  },
-  {
     "name": "GitHub",
     "description": "A platform for version control and collaboration. GitHub lets developers work together on projects from anywhere in the world.",
     "link": "https://github.com"
@@ -30,11 +25,6 @@
     "link": "https://chat.openai.com"
   },
   {
-    "name": "YouTube",
-    "description": "The world's largest video-sharing platform where you can discover, watch and share videos on any topic.",
-    "link": "https://youtube.com"
-  },
-  {
     "name": "Notion",
     "description": "An all-in-one workspace for notes, tasks, wikis, and databases. Organize your work and life in one flexible tool.",
     "link": "https://notion.so"
@@ -48,5 +38,30 @@
     "name": "Trello",
     "description": "A visual tool for organizing your work and life. Trello's boards, lists, and cards help teams manage projects collaboratively.",
     "link": "https://trello.com"
-  }
+  },
+  {
+    "name": "Perplexity AI",
+    "description": "An AI language model that can assist with various tasks, mostly used due to web browsing capabilities, also can be used without an account.",
+    "link": "https://www.perplexity.ai/"
+  },
+  {
+    "name": "DuckDuckGo",
+    "description": "Popular search engine that focuses on privacy and anti-data collection.",
+    "link": "https://www.duckduckgo.com/"
+  },
+  {
+    "name": "Emalm",
+    "description": "A neat free video and image upload website, does not require an account.",
+    "link": "https://emalm.com/"
+  },
+  {
+    "name": "Imgur",
+    "description": "Well known website for uploading images free and without an account.",
+    "link": "https://imgur.com/"
+  },
+  {
+    "name": "Discord",
+    "description": "One of the most popular social media applications, focused towards gamers and community driver audience.",
+    "link": "https://discord.com/"
+  },
 ]
