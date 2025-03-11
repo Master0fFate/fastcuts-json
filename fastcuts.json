@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Google",
+    "description": "The world's most popular search engine that provides personalized search results, images, videos, maps, news, and more.",
+    "link": "https://google.com"
+  },
+  {
+    "name": "GitHub",
+    "description": "A platform for version control and collaboration. GitHub lets developers work together on projects from anywhere in the world.",
+    "link": "https://github.com"
+  },
+  {
+    "name": "Stack Overflow",
+    "description": "A public Q&A site for programmers. Find solutions to coding problems and share knowledge with a community of developers.",
+    "link": "https://stackoverflow.com"
+  },
+  {
+    "name": "MDN Web Docs",
+    "description": "Comprehensive documentation for web developers. Includes detailed information on HTML, CSS, JavaScript, and Web APIs.",
+    "link": "https://developer.mozilla.org"
+  },
+  {
+    "name": "Figma",
+    "description": "A collaborative interface design tool that's available in the browser. Create, test, and share designs with your team.",
+    "link": "https://figma.com"
+  },
+  {
+    "name": "ChatGPT",
+    "description": "An AI language model that can assist with writing, coding, learning, and more through natural conversation.",
+    "link": "https://chat.openai.com"
+  },
+  {
+    "name": "YouTube",
+    "description": "The world's largest video-sharing platform where you can discover, watch and share videos on any topic.",
+    "link": "https://youtube.com"
+  },
+  {
+    "name": "Notion",
+    "description": "An all-in-one workspace for notes, tasks, wikis, and databases. Organize your work and life in one flexible tool.",
+    "link": "https://notion.so"
+  },
+  {
+    "name": "Product Hunt",
+    "description": "A platform to discover the latest mobile apps, websites, and technology products. Find daily features and trending tech.",
+    "link": "https://producthunt.com"
+  },
+  {
+    "name": "Trello",
+    "description": "A visual tool for organizing your work and life. Trello's boards, lists, and cards help teams manage projects collaboratively.",
+    "link": "https://trello.com"
+  }
+]
