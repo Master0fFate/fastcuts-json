@@ -1,6 +1,6 @@
 # fastcuts-json
 
-A JSON repository providing quick access to relevant websites for the Fastcuts web application.
+A JSON repository providing quick access to relevant websites for the Fastcuts website.
 
 ## Overview
 
@@ -36,7 +36,7 @@ Want to add a useful website to the collection?
 2. Add your website entry to the `fastcuts.json` file
 3. Submit a pull request
 
-Please ensure your entry includes a descriptive name, helpful description, and correct URL.
+Please ensure your entry includes a descriptive name, helpful description, and correct URL, do NOT end an url with a /, this breaks the json formatting.
 
 ## Implementation
 
@@ -53,3 +53,5 @@ The Fastcuts website fetches this JSON file and renders interactive buttons for 
 ## Contact
 
 Issues and pull requests welcome! 
+
+Current temp-hosted website can be checked-out [here](http://fate.rf.gd/)
