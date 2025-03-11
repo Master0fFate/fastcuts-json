@@ -63,5 +63,50 @@
     "name": "Discord",
     "description": "One of the most popular social media applications, focused towards gamers and community driver audience.",
     "link": "https://discord.com"
+  },
+  {
+    "name": "AlternativeTo",
+    "description": "Discover great apps, websites, and tools that are similar to what you're already using.",
+    "link": "https://alternativeto.net/"
+  },
+  {
+    "name": "Wolfram Alpha",
+    "description": "A computational knowledge engine that answers factual queries directly by computing the answer from curated data.",
+    "link": "https://www.wolframalpha.com/"
+  },
+  {
+    "name": "Libgen",
+    "description": "A file-sharing website for scientific journal articles, books, and images.",
+    "link": "https://libgen.rs/"
+  },
+  {
+    "name": "Internet Archive",
+    "description": "A non-profit library of millions of free books, movies, software, music, websites, and more.",
+    "link": "https://archive.org/"
+  },
+  {
+    "name": "Have I Been Pwned",
+    "description": "Check if your email address has been compromised in a data breach.",
+    "link": "https://haveibeenpwned.com/"
+  },
+  {
+    "name": "DeepL",
+    "description": "An AI-powered translation tool that offers highly accurate and natural-sounding translations.",
+    "link": "https://www.deepl.com/translator"
+  },
+  {
+    "name": "Canva",
+    "description": "A graphic design platform that makes it easy to create professional-looking visuals.",
+    "link": "https://www.canva.com/"
+  },
+  {
+    "name": "Grammarly",
+    "description": "An AI-powered writing assistant that helps you write clearly and effectively.",
+    "link": "https://www.grammarly.com/"
+  },
+  {
+    "name": "Overleaf",
+    "description": "A collaborative, online LaTeX editor for writing and publishing scientific documents.",
+    "link": "https://www.overleaf.com/"
   }
 ]
