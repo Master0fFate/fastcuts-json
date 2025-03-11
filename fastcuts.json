@@ -67,27 +67,27 @@
   {
     "name": "AlternativeTo",
     "description": "Discover great apps, websites, and tools that are similar to what you're already using.",
-    "link": "https://alternativeto.net/"
+    "link": "https://alternativeto.net"
   },
   {
     "name": "Wolfram Alpha",
     "description": "A computational knowledge engine that answers factual queries directly by computing the answer from curated data.",
-    "link": "https://www.wolframalpha.com/"
+    "link": "https://www.wolframalpha.com"
   },
   {
     "name": "Libgen",
     "description": "A file-sharing website for scientific journal articles, books, and images.",
-    "link": "https://libgen.rs/"
+    "link": "https://libgen.rs"
   },
   {
     "name": "Internet Archive",
     "description": "A non-profit library of millions of free books, movies, software, music, websites, and more.",
-    "link": "https://archive.org/"
+    "link": "https://archive.org"
   },
   {
     "name": "Have I Been Pwned",
     "description": "Check if your email address has been compromised in a data breach.",
-    "link": "https://haveibeenpwned.com/"
+    "link": "https://haveibeenpwned.com"
   },
   {
     "name": "DeepL",
@@ -97,16 +97,61 @@
   {
     "name": "Canva",
     "description": "A graphic design platform that makes it easy to create professional-looking visuals.",
-    "link": "https://www.canva.com/"
+    "link": "https://www.canva.com"
   },
   {
     "name": "Grammarly",
     "description": "An AI-powered writing assistant that helps you write clearly and effectively.",
-    "link": "https://www.grammarly.com/"
+    "link": "https://www.grammarly.com"
   },
   {
     "name": "Overleaf",
     "description": "A collaborative, online LaTeX editor for writing and publishing scientific documents.",
-    "link": "https://www.overleaf.com/"
+    "link": "https://www.overleaf.com"
+  },
+  {
+    "name": "Radio Garden",
+    "description": "Explore live radio stations from around the world.",
+    "link": "https://radio.garden/visit/the-world/n2mrXFwU"
+  },
+  {
+    "name": "CamelCamelCamel",
+    "description": "Track Amazon prices and get alerts when products go on sale.",
+    "link": "https://camelcamelcamel.com"
+  },
+  {
+    "name": "Remove.bg",
+    "description": "Automatically remove the background from images.",
+    "link": "https://www.remove.bg"
+  },
+  {
+    "name": "JustWatch",
+    "description": "Find out where to watch movies and TV shows streaming online.",
+    "link": "https://www.justwatch.com"
+  },
+  {
+    "name": "Ninite",
+    "description": "Download and install multiple Windows programs at once, without any bloatware.",
+    "link": "https://ninite.com"
+  },
+  {
+    "name": "ToffeeShare",
+    "description": "Share files of any size directly from your browser, with no storage limits.",
+    "link": "https://toffeeshare.com"
+  },
+  {
+    "name": "PrivNote",
+    "description": "Send self-destructing messages that disappear after being read.",
+    "link": "https://privnote.com"
+  },
+  {
+    "name": "Down for Everyone or Just Me",
+    "description": "Check if a website is down for everyone or just you.",
+    "link": "https://downforeveryoneorjustme.com"
+  },
+  {
+    "name": "A Soft Murmur",
+    "description": "Create a relaxing ambiance with customizable ambient sounds.",
+    "link": "https://asoftmurmur.com"
   }
 ]
