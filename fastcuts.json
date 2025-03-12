@@ -153,5 +153,10 @@
     "name": "A Soft Murmur",
     "description": "Create a relaxing ambiance with customizable ambient sounds.",
     "link": "https://asoftmurmur.com"
+  },
+  {
+    "name": "OldMapsOnline",
+    "description": "View a wide variety of historical maps throughout a large timeline."
+    "link": "https://www.oldmapsonline.org"
   }
 ]
