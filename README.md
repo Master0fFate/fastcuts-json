@@ -4,12 +4,12 @@ A JSON repository providing quick access to relevant websites for the Fastcuts w
 
 ## Overview
 
-This repository contains the primary data file `fastcuts.json`, which powers the Fastcuts website. Fastcuts is a web application that provides users with fast, searchable shortcuts to relevant websites.
+This repository contains the primary data file `fastcuts.json`, which powers the Fastcuts website.
 
 ## Features
 
 - Simple JSON structure for easy editing and maintenance
-- Powers the searchable interface of the Fastcuts website
+- Searchable interface of the Fastcuts website
 - Enables users to quickly find and access websites by name or description
 
 ## Usage
