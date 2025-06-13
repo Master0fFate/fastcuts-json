@@ -158,5 +158,235 @@
     "name": "OldMapsOnline",
     "description": "View a wide variety of historical maps throughout a large timeline.",
     "link": "https://www.oldmapsonline.org"
+  },
+  {
+    "name": "Hugging Face",
+    "description": "An AI community platform where you can discover, use, and contribute to thousands of open-source machine learning models and datasets.",
+    "link": "https://huggingface.co"
+  },
+  {
+    "name": "Midjourney",
+    "description": "An AI art generator that creates stunning images based on text prompts, accessible through Discord.",
+    "link": "https://www.midjourney.com"
+  },
+  {
+    "name": "DALL-E",
+    "description": "OpenAI's text-to-image AI system that creates realistic images and art from natural language descriptions.",
+    "link": "https://openai.com/dall-e-3"
+  },
+  {
+    "name": "RunwayML",
+    "description": "A creative toolkit for AI-powered video editing, generation, and visual effects.",
+    "link": "https://runwayml.com"
+  },
+  {
+    "name": "Anthropic Claude",
+    "description": "An AI coding assistant designed to be helpful, harmless, and honest with capabilities similar to ChatGPT.",
+    "link": "https://claude.ai"
+  },
+  {
+    "name": "Copy.ai",
+    "description": "AI-powered copywriting tool that helps create marketing copy, emails, social media content, and more.",
+    "link": "https://www.copy.ai"
+  },
+  {
+    "name": "Jasper",
+    "description": "AI content platform for marketing teams to create blog posts, social media, emails, and other content.",
+    "link": "https://www.jasper.ai"
+  },
+  {
+    "name": "Synthesia",
+    "description": "AI video generation platform that creates video content from text, featuring virtual avatars.",
+    "link": "https://www.synthesia.io"
+  },
+  {
+    "name": "Descript",
+    "description": "All-in-one audio and video editing software with AI-powered features like text-based editing and voice cloning.",
+    "link": "https://www.descript.com"
+  },
+  {
+    "name": "Lumen5",
+    "description": "AI video creation platform that turns blog posts and text content into engaging videos.",
+    "link": "https://lumen5.com"
+  },
+  {
+    "name": "Otter.ai",
+    "description": "AI-powered meeting assistant that records, transcribes, and summarizes conversations in real-time.",
+    "link": "https://otter.ai"
+  },
+  {
+    "name": "Krisp",
+    "description": "AI-powered noise cancellation app that removes background noise during calls and recordings.",
+    "link": "https://krisp.ai"
+  },
+  {
+    "name": "Notion AI",
+    "description": "AI writing assistant integrated with Notion that helps draft, edit, summarize, and brainstorm content.",
+    "link": "https://www.notion.so/product/ai"
+  },
+  {
+    "name": "Stable Diffusion",
+    "description": "Open-source AI art generator for creating images from text descriptions.",
+    "link": "https://stability.ai"
+  },
+  {
+    "name": "Leonardo.ai",
+    "description": "AI image generation platform designed specifically for creating game assets and concept art.",
+    "link": "https://leonardo.ai"
+  },
+  {
+    "name": "Murf.ai",
+    "description": "AI voice generator that creates studio-quality voiceovers with realistic AI voices.",
+    "link": "https://murf.ai"
+  },
+  {
+    "name": "ElevenLabs",
+    "description": "AI voice cloning and text-to-speech platform with highly realistic voices.",
+    "link": "https://elevenlabs.io"
+  },
+  {
+    "name": "Gamma",
+    "description": "AI-powered presentation creation tool that turns your ideas into professional presentations.",
+    "link": "https://gamma.app"
+  },
+  {
+    "name": "Fireflies.ai",
+    "description": "AI meeting assistant that records, transcribes, and analyzes your meetings.",
+    "link": "https://fireflies.ai"
+  },
+  {
+    "name": "Tome",
+    "description": "AI-powered storytelling format for creating presentations and visual narratives.",
+    "link": "https://tome.app"
+  },
+  {
+    "name": "Gemini",
+    "description": "Google’s AI chatbot that integrates with Google services and provides contextual responses.",
+    "link": "https://gemini.google.com/"
+  },
+  {
+    "name": "Microsoft Copilot",
+    "description": "Microsoft’s GPT-4 powered chatbot integrated with Bing search for up-to-date information.",
+    "link": "https://copilot.microsoft.com/"
+  },
+  {
+    "name": "ChatSonic",
+    "description": "AI chatbot that can handle real-time data, generating text, images, and more.",
+    "link": "https://writesonic.com/chat"
+  },
+  {
+    "name": "Codeium",
+    "description": "AI code completion tool supporting multiple programming languages in popular IDEs.",
+    "link": "https://www.codeium.com"
+  },
+  {
+    "name": "CodeWhisperer",
+    "description": "Amazon’s AI-driven coding assistant that provides real-time code suggestions.",
+    "link": "https://aws.amazon.com/codewhisperer"
+  },
+  {
+    "name": "Elicit",
+    "description": "AI research assistant that helps find relevant papers, summarize them, and generate insights.",
+    "link": "https://elicit.org"
+  },
+  {
+    "name": "Kaggle",
+    "description": "A platform for data science competitions, datasets, and AI-powered notebooks.",
+    "link": "https://www.kaggle.com"
+  },
+  {
+    "name": "Magenta",
+    "description": "Google’s AI research project focusing on music and art generation.",
+    "link": "https://magenta.tensorflow.org"
+  },
+  {
+    "name": "NVIDIA Canvas",
+    "description": "AI-powered painting tool that allows you to sketch simple shapes and turn them into realistic images.",
+    "link": "https://www.nvidia.com/en-us/studio/canvas"
+  },
+  {
+    "name": "Playground AI",
+    "description": "Tool for creating AI-generated images and artwork from text prompts.",
+    "link": "https://playgroundai.com"
+  },
+  {
+    "name": "Poe",
+    "description": "Quora’s AI chatbot aggregator offering multiple large language models in one interface.",
+    "link": "https://poe.com"
+  },
+  {
+    "name": "Replika",
+    "description": "AI companion chatbot designed for friendships, self-improvement, and roleplay interactions.",
+    "link": "https://replika.com"
+  },
+  {
+    "name": "Soundraw",
+    "description": "AI music composition tool for generating custom, royalty-free music tracks.",
+    "link": "https://soundraw.io"
+  },
+  {
+    "name": "Phind",
+    "description": "AI search engine and pair programmer for developers, providing answers with code examples and explanations.",
+    "link": "https://www.phind.com"
+  },
+  {
+    "name": "Blackbox AI",
+    "description": "AI coding assistant that helps you find code snippets, generate code, and answer programming questions.",
+    "link": "https://www.blackbox.ai"
+  },
+  {
+    "name": "Tabnine",
+    "description": "AI code completion assistant that supports multiple languages and IDEs, improving developer productivity.",
+    "link": "https://www.tabnine.com"
+  },
+  {
+    "name": "Suno AI",
+    "description": "AI music generator that creates songs with vocals and instruments from text prompts.",
+    "link": "https://suno.ai"
+  },
+  {
+    "name": "HeyGen",
+    "description": "AI video platform for creating engaging videos with AI avatars and voice cloning.",
+    "link": "https://www.heygen.com"
+  },
+  {
+    "name": "Pictory",
+    "description": "AI video generator that automatically creates short, highly-shareable branded videos from your long-form content.",
+    "link": "https://pictory.ai"
+  },
+  {
+    "name": "Rytr",
+    "description": "AI writing assistant that helps you create high-quality content for blogs, emails, social media, and more.",
+    "link": "https://rytr.me"
+  },
+  {
+    "name": "Civitai",
+    "description": "A platform for sharing and discovering AI art models, primarily for Stable Diffusion.",
+    "link": "https://civitai.com"
+  },
+  {
+    "name": "Veed.io",
+    "description": "Online video editing platform with a suite of AI-powered tools for easy video creation.",
+    "link": "https://www.veed.io"
+  },
+  {
+    "name": "Adobe Firefly",
+    "description": "Adobe's family of creative generative AI models, integrated into Adobe Creative Cloud apps.",
+    "link": "https://firefly.adobe.com"
+  },
+  {
+    "name": "Clipdrop",
+    "description": "An ecosystem of AI-powered apps, plugins & resources for all creators, by Stability AI.",
+    "link": "https://clipdrop.co"
+  },
+  {
+    "name": "You.com",
+    "description": "AI search engine that provides summarized answers and allows users to chat with different AI models.",
+    "link": "https://you.com"
+  },
+  {
+    "name": "AssemblyAI",
+    "description": "AI models for speech-to-text, speech understanding, and audio intelligence.",
+    "link": "https://www.assemblyai.com"
   }
 ]
